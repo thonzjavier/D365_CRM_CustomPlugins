@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\ABJPlugin\ABJPlugin\bin\Debug\ABJPlugin.dll
+C:\Users\Administrator\source\repos\ABJPlugin\ABJPlugin\bin\Debug\ABJPlugin.pdb
+C:\Users\Administrator\source\repos\ABJPlugin\ABJPlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Administrator\source\repos\ABJPlugin\ABJPlugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Administrator\source\repos\ABJPlugin\ABJPlugin\obj\Debug\ABJPlugin.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ABJPlugin\ABJPlugin\obj\Debug\ABJPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ABJPlugin\ABJPlugin\obj\Debug\ABJPlugin.csproj.CopyComplete
+C:\Users\Administrator\source\repos\ABJPlugin\ABJPlugin\obj\Debug\ABJPlugin.dll
+C:\Users\Administrator\source\repos\ABJPlugin\ABJPlugin\obj\Debug\ABJPlugin.pdb
