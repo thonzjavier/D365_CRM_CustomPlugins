@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\ABJPluginWF\ABJPluginWF\bin\Release\ABJPluginWF.dll
+C:\Users\Administrator\source\repos\ABJPluginWF\ABJPluginWF\bin\Release\ABJPluginWF.pdb
+C:\Users\Administrator\source\repos\ABJPluginWF\ABJPluginWF\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Users\Administrator\source\repos\ABJPluginWF\ABJPluginWF\bin\Release\microsoft.xrm.sdk.workflow.dll
+C:\Users\Administrator\source\repos\ABJPluginWF\ABJPluginWF\obj\Release\ABJPluginWF.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ABJPluginWF\ABJPluginWF\obj\Release\ABJPluginWF.csproj.CopyComplete
+C:\Users\Administrator\source\repos\ABJPluginWF\ABJPluginWF\obj\Release\ABJPluginWF.dll
+C:\Users\Administrator\source\repos\ABJPluginWF\ABJPluginWF\obj\Release\ABJPluginWF.pdb
+C:\Users\Administrator\source\repos\ABJPluginWF\ABJPluginWF\obj\Release\ABJPluginWF.csprojAssemblyReference.cache
